@@ -1,0 +1,23 @@
+{
+  "ports": {
+    "15000": "wss://zcad.zixel.cn:5000/",
+    "15001": "wss://zcad.zixel.cn:5001/",
+    "15002": "wss://zcad.zixel.cn:5002/",
+    "15003": "wss://zcad.zixel.cn:5003/",
+    "15004": "wss://zcad.zixel.cn:5004/",
+    "15005": "wss://zcad.zixel.cn:5005/",
+    "15006": "wss://zcad.zixel.cn:5006/",
+    "15007": "wss://zcad.zixel.cn:5007/",
+    "15008": "wss://zcad.zixel.cn:5008/",
+    "15009": "wss://zcad.zixel.cn:5009/",
+    "15010": "wss://zcad.zixel.cn:5010/"
+  },
+  "instance_work_folder": "E:/zixel_zcad/zcad/win_freecad/bin",
+  "instance_exe": "FreeCAD.exe",
+  "service_config": [
+    {
+      "IP": "127.0.0.1",
+      "Port": 8868
+    }
+  ]
+}
